@@ -8,6 +8,8 @@
 
 ## Implementations
 
+- RSA Public/Private Key Rotation
+- JWT with Public Key Rotation
 - Rest
 - GRPC
 - Events
@@ -26,6 +28,7 @@
 - Gin
 - Breaker
 - Retrier
+- Cryptography
 - Mongo
 - Prometheus
 - Otel
@@ -70,7 +73,7 @@
 - [Authentication](https://github.com/JohnSalazar/microservices-go-authentication)
 - [Email](https://github.com/JohnSalazar/microservices-go-email)
 - [Customer](https://github.com/JohnSalazar/microservices-go-customer)
-- Product
+- [Product](https://github.com/JohnSalazar/microservices-go-product)
 - [Cart](https://github.com/JohnSalazar/microservices-go-cart)
 - [Order](https://github.com/JohnSalazar/microservices-go-order)
 - **Payment**
