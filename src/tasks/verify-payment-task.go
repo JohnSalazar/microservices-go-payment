@@ -13,11 +13,11 @@ import (
 	"payment/src/security"
 	"time"
 
-	common_models "github.com/oceano-dev/microservices-go-common/models"
-	common_nats "github.com/oceano-dev/microservices-go-common/nats"
-	common_security "github.com/oceano-dev/microservices-go-common/security"
-	common_service "github.com/oceano-dev/microservices-go-common/services"
-	trace "github.com/oceano-dev/microservices-go-common/trace/otel"
+	common_models "github.com/JohnSalazar/microservices-go-common/models"
+	common_nats "github.com/JohnSalazar/microservices-go-common/nats"
+	common_security "github.com/JohnSalazar/microservices-go-common/security"
+	common_service "github.com/JohnSalazar/microservices-go-common/services"
+	trace "github.com/JohnSalazar/microservices-go-common/trace/otel"
 )
 
 type verifyPaymentTask struct {

@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"payment/src/security"
 
+	trace "github.com/JohnSalazar/microservices-go-common/trace/otel"
 	"github.com/gin-gonic/gin"
-	trace "github.com/oceano-dev/microservices-go-common/trace/otel"
 )
 
 type PaymentController struct {

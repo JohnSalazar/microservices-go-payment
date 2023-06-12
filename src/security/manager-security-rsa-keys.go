@@ -7,9 +7,9 @@ import (
 	"payment/src/models"
 	"time"
 
+	"github.com/JohnSalazar/microservices-go-common/config"
+	common_models "github.com/JohnSalazar/microservices-go-common/models"
 	"github.com/google/uuid"
-	"github.com/oceano-dev/microservices-go-common/config"
-	common_models "github.com/oceano-dev/microservices-go-common/models"
 )
 
 var (

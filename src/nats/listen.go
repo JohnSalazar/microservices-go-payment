@@ -4,11 +4,11 @@ import (
 	"payment/src/application/commands"
 	"payment/src/nats/listeners"
 
+	"github.com/JohnSalazar/microservices-go-common/config"
 	"github.com/nats-io/nats.go"
-	"github.com/oceano-dev/microservices-go-common/config"
 
-	common_nats "github.com/oceano-dev/microservices-go-common/nats"
-	common_service "github.com/oceano-dev/microservices-go-common/services"
+	common_nats "github.com/JohnSalazar/microservices-go-common/nats"
+	common_service "github.com/JohnSalazar/microservices-go-common/services"
 )
 
 type listen struct {

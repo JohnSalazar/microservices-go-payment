@@ -7,8 +7,8 @@ import (
 	"payment/src/tasks/interfaces"
 	"time"
 
-	common_models "github.com/oceano-dev/microservices-go-common/models"
-	common_nats "github.com/oceano-dev/microservices-go-common/nats"
+	common_models "github.com/JohnSalazar/microservices-go-common/models"
+	common_nats "github.com/JohnSalazar/microservices-go-common/nats"
 )
 
 type PaymentEventHandler struct {

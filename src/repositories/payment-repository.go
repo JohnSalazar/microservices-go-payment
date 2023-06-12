@@ -6,7 +6,7 @@ import (
 
 	"payment/src/models"
 
-	"github.com/oceano-dev/microservices-go-common/helpers"
+	"github.com/JohnSalazar/microservices-go-common/helpers"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"
