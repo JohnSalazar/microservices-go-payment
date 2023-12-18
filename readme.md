@@ -16,15 +16,15 @@
 - Background Services
 - Discovery Service
 - Telemetry
-- Metrics  
+- Metrics
 
 ---
 
 ## Components
 
 - Viper
-- UUID  
-- Validator  
+- UUID
+- Validator
 - Gin
 - Breaker
 - Retrier
@@ -78,6 +78,14 @@
 - [Order](https://github.com/JohnSalazar/microservices-go-order)
 - **Payment**
 - [Web](https://github.com/JohnSalazar/microservices-go-web)
+
+---
+
+## How to build this project
+
+### Access the Infra repository and follow the instructions
+
+- [Infra](https://github.com/JohnSalazar/microservices-go-infra)
 
 ---
 
